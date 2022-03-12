@@ -123,7 +123,7 @@ def sort_price(CACHE_FNAME):
     tuple
         the name of the top 5 most expensive collections
         in the iTunes cache and its price like so:
-        [('collection name', 0.0), 'collection name', 0.0)]
+        [('collection name', 0.0), ('collection name', 0.0)]
     '''
     pass
 
